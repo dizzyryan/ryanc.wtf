@@ -75,9 +75,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : #"goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : "G-6973QCDZR3"
+    tracking_id          : G-6973QCDZR3
+  goatcounter:
+    code		 : 
 
 
 # Site Author
