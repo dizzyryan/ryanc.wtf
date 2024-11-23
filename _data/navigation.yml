@@ -2,15 +2,15 @@
 main:
   - title: "Posts"
     url: /posts/
-
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Research"
-  #   url: /research/
-
-   - title: "Project"
+    
+  - title: "Project"
      url: /project/
   
   - title: "CV"
     url: /cv/
+
+# - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Research"
+  #   url: /research/
