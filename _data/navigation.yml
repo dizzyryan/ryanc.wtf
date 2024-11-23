@@ -2,9 +2,9 @@
 main:
   - title: "Posts"
     url: /posts/
-    
+
   - title: "Project"
-     url: /project/
+    url: /project/
   
   - title: "CV"
     url: /cv/
