@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Computer Science, The Chinese University of Hong Kong, Ongoing
 
-Work experience
+<!-- Work experience
 ======
 
   
@@ -30,4 +30,4 @@ Publications
 
 
 Service and leadership
-======
+====== -->
