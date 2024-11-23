@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-# mastodon:
-#   username               : 
 # twitter:
 #   username               : 
 # facebook:
@@ -74,10 +72,10 @@ social:
 
 
 # Analytics
-analytics:
-  provider               : "google"
-  google:
-    tracking_id          : G-6973QCDZR3
+# analytics:
+#   provider               : "google"
+#   google:
+#     tracking_id          : G-6973QCDZR3
 
 
 # Site Author
@@ -89,13 +87,9 @@ author:
   employer         :
   pubmed           :
   email            : "rkychan@link.cuhk.edu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "dizzyryan"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  mastodon         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -195,15 +189,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -222,14 +207,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
@@ -241,7 +218,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Hongkong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
