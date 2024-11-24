@@ -71,10 +71,10 @@ social:
 
 
 # Analytics
-# analytics:
-#   provider               : "google"
-#   google:
-#     tracking_id          : G-6973QCDZR3
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : G-6973QCDZR3
 
 
 # Site Author
