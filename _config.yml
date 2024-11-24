@@ -11,7 +11,7 @@ title                    : "Ryan Chan"
 title_separator          : "-"
 name                     : &name "Ryan Chan"
 description              : &description "Undergraduate in Computer Science"
-url                      : https://ryanc.wtf # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ryanc.wtf # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dizzyryan/ryanc.wtf"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
