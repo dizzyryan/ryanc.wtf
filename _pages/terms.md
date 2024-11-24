@@ -1,12 +1,9 @@
 ---
-permalink: /terms/
 title: 'Terms and Privacy Policy'
-modified: 2024-11-24
+date: 2024-11-24
+permalink: /terms/
 toc: true
 ---
-
-<!-- {% include base_path %}
-{% include toc %} -->
 
 # Privacy Policy
 
