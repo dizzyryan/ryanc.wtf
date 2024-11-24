@@ -14,4 +14,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
