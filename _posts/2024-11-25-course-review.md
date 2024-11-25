@@ -32,7 +32,7 @@ With that said, I’ve categorized the following just for your information, in c
     + College GE (6)
     + National Security (That’s not the official name, but that’s what I call it.) (1 + 1)
     + Digital Literacy and Computational Thinking (3)
-    + Physical Education (Yes, we have PE course :smile:)
+    + Physical Education (Yes, we have PE courses :smile:)
 
 (*) depending on the faculty, the requirements may vary. For me, I need to take courses from UGEA, UGEC, and UGED.
 
@@ -41,14 +41,23 @@ With that said, I’ve categorized the following just for your information, in c
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
 | ENGG1110 - Problem Solving By Programming | Faculty Package | 3 |
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+| MATH1510 - Calculus for Engineers | Foundation Course | 3 |
+| MATH1020 - General Mathematics | Foundation Course | 3 |
+| CHLT1001 - University Chinese I | University Core | 3 |
+| UGCP1002 - Hong Kong in the Wider Constitutional Order | University Core | 1 |
+| PHED1031 - Tennis (Men) | University Core | 1 |
+| ENGG1003 - Digital Literacy and Computational Thinking | University Core | 3 |
+| IERG1000 - Introduction to Information Engineering | - | 1 |
+|   |   | 18 |
+
+
+	3
+	3
+	3
+U	1
+	1
+	3
+	1
 
 ## Year 1 Semester 2
 
