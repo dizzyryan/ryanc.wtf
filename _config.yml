@@ -37,9 +37,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal"
+  provider               : "custom"
   google:
-    tracking_id          : G-6973QCDZR3
+    tracking_id          :
 
 
 # Site Author
