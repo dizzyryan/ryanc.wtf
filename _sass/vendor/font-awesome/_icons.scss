@@ -251,11 +251,6 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-cogs:before { content: fa-content($fa-var-cogs); }
 .#{$fa-css-prefix}-coins:before { content: fa-content($fa-var-coins); }
 .#{$fa-css-prefix}-columns:before { content: fa-content($fa-var-columns); }
-.#{$fa-css-prefix}-comment:before { content: fa-content($fa-var-comment); }
-.#{$fa-css-prefix}-comment-alt:before { content: fa-content($fa-var-comment-alt); }
-.#{$fa-css-prefix}-comment-dollar:before { content: fa-content($fa-var-comment-dollar); }
-.#{$fa-css-prefix}-comment-dots:before { content: fa-content($fa-var-comment-dots); }
-.#{$fa-css-prefix}-comment-slash:before { content: fa-content($fa-var-comment-slash); }
 .#{$fa-css-prefix}-comments:before { content: fa-content($fa-var-comments); }
 .#{$fa-css-prefix}-comments-dollar:before { content: fa-content($fa-var-comments-dollar); }
 .#{$fa-css-prefix}-compact-disc:before { content: fa-content($fa-var-compact-disc); }
