@@ -40,7 +40,7 @@ With that said, I’ve categorized the following just for your information, in c
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| ENGG1110 - Problem Solving By Programming | Faculty Package | 3 |
+| [ENGG1110 - Problem Solving By Programming](/_posts/review/ENGG1110.md) | Faculty Package | 3 |
 | MATH1510 - Calculus for Engineers | Foundation Course | 3 |
 | MATH1020 - General Mathematics | Foundation Course | 3 |
 | CHLT1001 - University Chinese I | University Core | 3 |
@@ -52,8 +52,8 @@ With that said, I’ve categorized the following just for your information, in c
 
 ## Year 1 Semester 2
 
-|   Course  |   Instructor  |   Category    |   Credit  |
-|   :---:   |   :--------:  |   :------:    |   :----:  |
+|   Course  |   Category    |   Credit  |
+|   :---:   |   :------:    |   :----:  |
 | ENGG1120 - Linear Algebra for Engineers | Faculty Package | 3 |
 | ENGG1130 - Multivariable Calculus for Engineers | Faculty Package | 3 |
 | IERG2060 - Basic Analog and Digital Circuits | Major Required* | 3 |
