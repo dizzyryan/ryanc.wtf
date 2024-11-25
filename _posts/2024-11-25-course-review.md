@@ -50,15 +50,6 @@ With that said, I’ve categorized the following just for your information, in c
 | IERG1000 - Introduction to Information Engineering | - | 1 |
 |   |   | 18 |
 
-
-	3
-	3
-	3
-U	1
-	1
-	3
-	1
-
 ## Year 1 Semester 2
 
 |   Course  |   Instructor  |   Category    |   Credit  |
