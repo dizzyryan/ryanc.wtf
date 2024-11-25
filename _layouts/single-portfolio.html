@@ -75,7 +75,9 @@ layout: default
       {% endif %}
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:3 %}
-          {% include archive-single.html type="grid" %}
+          {% if post.hide == null or post.hide == false %}
+            {% include archive-single.html type="grid" %}
+          {% endif %}
         {% endfor %}
       </div>
     </div>
