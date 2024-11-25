@@ -54,5 +54,16 @@ With that said, I’ve categorized the following just for your information, in c
 
 |   Course  |   Instructor  |   Category    |   Credit  |
 |   :---:   |   :--------:  |   :------:    |   :----:  |
+| ENGG1120 - Linear Algebra for Engineers | Faculty Package | 3 |
+| ENGG1130 - Multivariable Calculus for Engineers | Faculty Package | 3 |
+| IERG2060 - Basic Analog and Digital Circuits | Major Required* | 3 |
+| ELTU1001 - Foundation English for University Studies | University Core | 3 |
+| PHED1041 - Badminton (Men) | University Core | 1 |
+| UGCP1001 - Understanding China | University Core | 1 |
+| IERG1810 - Electronic Circuit Design Laboratory | - | 1 |
+| IERG2080 - Introduction to Systems Programming | Free Elective | 3 |
+|   |   | 18 |
+
+(*) substitute for ENGG2020
 
 ## Year 2 Semester 1
