@@ -40,7 +40,7 @@ With that said, I’ve categorized the following just for your information, in c
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| [ENGG1110 - Problem Solving By Programming](/posts/cuhk-course-review/2024/11/ENGG1110/) | Faculty Package | 3 |
+| [ENGG1110 - Problem Solving By Programming](/posts/cuhk-course-review/y1-fall/2024/11/ENGG1110/) | Faculty Package | 3 |
 | MATH1510 - Calculus for Engineers | Foundation Course | 3 |
 | MATH1020 - General Mathematics | Foundation Course | 3 |
 | CHLT1001 - University Chinese I | University Core | 3 |
