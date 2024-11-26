@@ -5,7 +5,7 @@ permalink: /posts/2024/11/course-review/
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - college
+  - Course Review
 ---
 
 Well, I’ve got another idea for posting... something?
