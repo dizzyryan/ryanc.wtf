@@ -41,27 +41,27 @@ With that said, I’ve categorized the following just for your information, in c
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
 | [ENGG1110 - Problem Solving By Programming](/posts/cuhk-course-review/y1-fall/2024/11/ENGG1110/) | Faculty Package | 3 |
-| MATH1510 - Calculus for Engineers | Foundation Course | 3 |
-| MATH1020 - General Mathematics | Foundation Course | 3 |
-| CHLT1001 - University Chinese I | University Core | 3 |
-| UGCP1002 - Hong Kong in the Wider Constitutional Order | University Core | 1 |
-| PHED1031 - Tennis (Men) | University Core | 1 |
-| ENGG1003 - Digital Literacy and Computational Thinking | University Core | 3 |
-| IERG1000 - Introduction to Information Engineering | - | 1 |
+| [MATH1510 - Calculus for Engineers](/posts/cuhk-course-review/y1-fall/2024/11/MATH1510/) | Foundation Course | 3 |
+| [MATH1020 - General Mathematics](/posts/cuhk-course-review/y1-fall/2024/11/MATH1020/) | Foundation Course | 3 |
+| [CHLT1001 - University Chinese I](/posts/cuhk-course-review/y1-fall/2024/11/CHLT1001/) | University Core | 3 |
+| [UGCP1002 - Hong Kong in the Wider Constitutional Order](/posts/cuhk-course-review/y1-fall/2024/11/UGCP1002/) | University Core | 1 |
+| [PHED1031 - Tennis (Men)](/posts/cuhk-course-review/y1-fall/2024/11/PHED1031/) | University Core | 1 |
+| [ENGG1003 - Digital Literacy and Computational Thinking](/posts/cuhk-course-review/y1-fall/2024/11/ENGG1003/) | University Core | 3 |
+| [IERG1000 - Introduction to Information Engineering](/posts/cuhk-course-review/y1-fall/2024/11/IERG1000/) | - | 1 |
 |   |   | 18 |
 
 ## Year 1 Semester 2
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| ENGG1120 - Linear Algebra for Engineers | Faculty Package | 3 |
-| ENGG1130 - Multivariable Calculus for Engineers | Faculty Package | 3 |
-| IERG2060 - Basic Analog and Digital Circuits | Major Required* | 3 |
-| ELTU1001 - Foundation English for University Studies | University Core | 3 |
-| PHED1041 - Badminton (Men) | University Core | 1 |
-| UGCP1001 - Understanding China | University Core | 1 |
-| IERG1810 - Electronic Circuit Design Laboratory | - | 1 |
-| IERG2080 - Introduction to Systems Programming | Free Elective | 3 |
+| [ENGG1120 - Linear Algebra for Engineers](/posts/cuhk-course-review/y1-spring/2024/11/ENGG1120/) | Faculty Package | 3 |
+| [ENGG1130 - Multivariable Calculus for Engineers](/posts/cuhk-course-review/y1-spring/2024/11/ENGG1130/) | Faculty Package | 3 |
+| [IERG2060 - Basic Analog and Digital Circuits](/posts/cuhk-course-review/y1-spring/2024/11/IERG2060/) | Major Required* | 3 |
+| [ELTU1001 - Foundation English for University Studies](/posts/cuhk-course-review/y1-spring/2024/11/ELTU1001/) | University Core | 3 |
+| [PHED1041 - Badminton (Men)](/posts/cuhk-course-review/y1-spring/2024/11/PHED1041/) | University Core | 1 |
+| [UGCP1001 - Understanding China](/posts/cuhk-course-review/y1-spring/2024/11/UGCP1001/) | University Core | 1 |
+| [IERG1810 - Electronic Circuit Design Laboratory](/posts/cuhk-course-review/y1-spring/2024/11/IERG1810/) | - | 1 |
+| [IERG2080 - Introduction to Systems Programming](/posts/cuhk-course-review/y1-spring/2024/11/IERG2080/) | Free Elective | 3 |
 |   |   | 18 |
 
 (*) substitute for ENGG2020
