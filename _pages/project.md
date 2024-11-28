@@ -1,0 +1,37 @@
+---
+layout: archive
+title: "Project"
+permalink: /project/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+# Abstract
+I plan to upload some of my projects to this website, including those I completed during university courses as well as my personal side projects. I’m still deciding what else to include here—maybe some useful tools (well, at least they’re useful to me...). The source codes will be available on GitHub, but I’ll also provide some usage instructions here.
+
+# Coursework Projects
+
++ [IERG2080 Project: 2D bitmap editor](https://github.com/dizzyryan/CUHK-CS-Notes/blob/bf9a807f64c491d62685a233bd8f789d982280ca/IERG2080/proj.c)
+You can compile the code by
+<pre>
+gcc proj.c -o proj -lcurses
+<pre>
+
+Or by creating a Makefile
+<pre>
+make:
+	gcc proj.c -o proj -lcurses
+<pre>
+
+Then, you can use the program by
+<pre>
+./proj [in=in_file] [out=out_file]
+./proj [out=out_file] [in=in_file]
+<pre>
+Both arguments are optional. Yet, the phase in= or out= must be provided if the corresponding argument is used. in_file is the input file name, and out_
+file is the output file name.
+
+
+# Personal Creation
