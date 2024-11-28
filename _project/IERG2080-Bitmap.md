@@ -1,7 +1,6 @@
 ---
 title: "IERG2080 Project: 2D bitmap editor"
-layout: single-portfolio
-order_number: 1
+date: 2024-11-28
 ---
 
 
