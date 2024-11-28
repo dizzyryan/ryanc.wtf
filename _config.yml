@@ -152,6 +152,9 @@ defaults:
   - scope:
       path: ""
       type: project
+    values:
+      layout: single
+      author_profile: true
   # _publications
   - scope:
       path: ""
