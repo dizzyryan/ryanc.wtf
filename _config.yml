@@ -121,10 +121,6 @@ kramdown:
 
 
 # Collections
-collections:
-  project:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -149,10 +145,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # project
-  - scope:
-      path: ""
-      type: project
   # _publications
   - scope:
       path: ""
