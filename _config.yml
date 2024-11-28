@@ -127,9 +127,6 @@ kramdown:
   research:
     output: true
     permalink: /:collection/:path/
-  project:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -162,14 +159,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _project
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
 
 # Sass/SCSS
 sass:
