@@ -10,8 +10,6 @@ I plan to upload some of my projects to this website, including those I complete
 
 {% include base_path %}
 
-{% assign ordered_pages = site.project | sort:"order_number" %}
-
 {% for post in site.project reversed %}
   {% include archive-single.html %}
 {% endfor %}
