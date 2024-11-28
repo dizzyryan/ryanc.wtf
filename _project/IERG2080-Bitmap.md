@@ -1,20 +1,12 @@
 ---
-layout: archive
-title: "Project"
-permalink: /project/
-author_profile: true
+title: "test"
+layout: single-portfolio
+collection: project
+order_number: #40
 ---
 
-{% include base_path %}
 
-
-# Abstract
-I plan to upload some of my projects to this website, including those I completed during university courses as well as my personal side projects. I’m still deciding what else to include here—maybe some useful tools (well, at least they’re useful to me...). The source codes will be available on GitHub, but I’ll also provide some usage instructions here.
-
-{% for post in site.project reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+# Coursework Projects
 
 ### <details>
   <summary>[IERG2080 Project: 2D bitmap editor](https://github.com/dizzyryan/CUHK-CS-Notes/blob/bf9a807f64c491d62685a233bd8f789d982280ca/IERG2080/proj.c)</summary>
@@ -39,5 +31,3 @@ I plan to upload some of my projects to this website, including those I complete
 </details>
 
 
-
-# Personal Creation
