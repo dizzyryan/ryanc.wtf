@@ -1,7 +1,6 @@
 ---
-layout: archive
 title: "IERG2080 Project: 2D bitmap editor"
-permalink: /project/IERG2080-Bitmap.md
+layout: single-portfolio
 order_number: 1
 ---
 
