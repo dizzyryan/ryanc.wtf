@@ -22,6 +22,7 @@ Then, you can use the program by
 ./proj [in=in_file] [out=out_file]
 ./proj [out=out_file] [in=in_file]
 ```
+
 Both arguments are optional. Yet, the phase in= or out= must be provided if the corresponding argument is used. in_file is the input file name, and out_file is the output file name.
 
 
