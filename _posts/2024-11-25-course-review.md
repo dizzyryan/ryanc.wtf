@@ -1,18 +1,16 @@
 ---
-title: "Course Review'
+title: "Course Review"
 date: 2024-11-25
 permalink: /posts/2024/11/course-review/
-excerpt: "What courses did i took"
+excerpt_separator: <!--more-->
 toc: true
 tags:
   - Course Review
 ---
 
-Well, I’ve got another idea for posting... something?
+Well, I’ve got another idea for posting... something?<!--more-->
 
 I thought, why not write a review or comment about the course I took? So here I am with this post. Details like the grading scheme might not be entirely accurate since they can change over time, but I think giving you a glimpse of what the course looks like could be fun.
-
-<!--more-->
 
 ## Before you start
 Thanks to the whole-person education at CUHK, we have quite a lot of courses to take, especially in general education. It depends on how you see it, but I think they are quite educational (at least for the courses I’ve taken so far, though it might be better if they weren’t credit-bearing).

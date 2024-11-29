@@ -1,15 +1,15 @@
 ---
-title: "Hello World"
+title: "printf(\"Hello World\")"
 date: 2024-11-23
 permalink: /posts/2024/11/hello-world/
-excerpt: "Where I get started"
+excerpt_separator: <!--more-->
 toc: true
 tags:
   - gibberish
 ---
 
-Well, this is my first personal (academic) webpage. As a CS student, I somehow believe that I need to have my own personal site—for academic use as well as for future employment...
-<!--more-->
+Well, this is my first personal (academic) webpage.<!--more--> As a CS student, I somehow believe that I need to have my own personal site—for academic use as well as for future employment...
+
 The main function of this page is to demonstrate my work on GitHub, since it is not a PDF-friendly platform 😅.
 
 # Declaration
