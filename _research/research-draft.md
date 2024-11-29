@@ -2,6 +2,7 @@
 title: "Research template"
 layout: single-portfolio
 collection: research
+date: 1999-09-09
 order_number: 1
 ---
 
