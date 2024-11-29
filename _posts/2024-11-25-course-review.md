@@ -1,8 +1,8 @@
 ---
-title: 'Course Review'
+title: "Course Review'
 date: 2024-11-25
 permalink: /posts/2024/11/course-review/
-excerpt_separator: <!--more-->
+excerpt: "What courses did i took"
 toc: true
 tags:
   - Course Review

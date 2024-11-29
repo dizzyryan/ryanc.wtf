@@ -1,12 +1,11 @@
 ---
-title: 'Hello World'
+title: "Hello World"
 date: 2024-11-23
 permalink: /posts/2024/11/hello-world/
-excerpt_separator: <!--more-->
+excerpt: "Where I get started"
 toc: true
 tags:
   - gibberish
-Abstract: "Test abstract"
 ---
 
 Well, this is my first personal (academic) webpage. As a CS student, I somehow believe that I need to have my own personal site—for academic use as well as for future employment...
