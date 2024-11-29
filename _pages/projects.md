@@ -11,6 +11,8 @@ I plan to upload some of my projects to this website, including those I complete
 
 {% include base_path %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+{% assign ordered_pages = site.projects | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html%}
 {% endfor %}
