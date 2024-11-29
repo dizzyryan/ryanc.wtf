@@ -3,7 +3,7 @@ main:
   - title: "Posts"
     url: /posts/
 
-  - title: "Project"
+  - title: "Projects"
     url: /projects/
   
   - title: "CV"
