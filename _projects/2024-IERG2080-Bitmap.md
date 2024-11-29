@@ -1,9 +1,6 @@
 ---
-layout: archive
 title: "IERG2080 Project: 2D bitmap editor"
-date: 2024-11-29
-permalink: /projects/IERG2080-Bitmap/
-author_profile: true
+layout: single-portfolio
 collection: projects
 ---
 

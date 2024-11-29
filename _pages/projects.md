@@ -11,6 +11,6 @@ I plan to upload some of my projects to this website, including those I complete
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
