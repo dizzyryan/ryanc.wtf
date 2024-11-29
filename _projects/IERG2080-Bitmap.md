@@ -3,7 +3,7 @@ title: "IERG2080 Project: 2D bitmap editor"
 layout: single-portfolio
 collection: projects
 excerpt: ""
-order: 3
+order_number: 1
 ---
 
 [IERG2080 Project: 2D bitmap editor](https://github.com/dizzyryan/CUHK-CS-Notes/blob/bf9a807f64c491d62685a233bd8f789d982280ca/IERG2080/proj.c)
