@@ -161,10 +161,10 @@
 ///   );
 ///
 /// @example scss - inside-static gutters
-///   // 6 symmetrical, fluid columns…
-///   // gutters are static, triggering calc()…
-///   // elements span equal columns & gutters…
-///   // containers span equal columns & gutters…
+///   // 6 symmetrical, fluid columns
+///   // gutters are static, triggering calc()
+///   // elements span equal columns & gutters
+///   // containers span equal columns & gutters
 ///   $susy: (
 ///     'columns': susy-repeat(6),
 ///     'gutters': 0.5em,
