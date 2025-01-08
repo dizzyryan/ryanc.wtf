@@ -42,9 +42,9 @@
 ///
 /// @return {map} -
 ///   Map of span and grid settings
-///   parsed from shorthand input –
-///   including all the properties available globally –
-///   `columns`, `gutters`, `spread`, `container-spread` –
+///   parsed from shorthand input -
+///   including all the properties available globally -
+///   `columns`, `gutters`, `spread`, `container-spread` -
 ///   along with the span-specific properties
 ///   `span`, and `location`.
 ///
@@ -88,7 +88,7 @@
     $error: false;
     $details: '[#{$type}] `#{$item}`';
 
-    // if we know what's supposed to be coming next…
+    // if we know what's supposed to be coming next
     @if $next {
 
       // Add to the return map

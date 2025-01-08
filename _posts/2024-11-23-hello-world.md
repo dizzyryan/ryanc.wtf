@@ -8,7 +8,7 @@ tags:
   - gibberish
 ---
 
-Well, this is my first personal (academic) webpage.<!--more--> As a CS student, I somehow believe that I need to have my own personal site—for academic use as well as for future employment...
+Well, this is my first personal (academic) webpage.<!--more--> As a CS student, I somehow believe that I need to have my own personal site-for academic use as well as for future employment...
 
 The main function of this page is to demonstrate my work on GitHub, since it is not a PDF-friendly platform 😅.
 
