@@ -6,7 +6,7 @@ search: false
 @charset "utf-8";
 
 /* skin */
-@import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+//@import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
 /* Variables */
 @import "variables";
