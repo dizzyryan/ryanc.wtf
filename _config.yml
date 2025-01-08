@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Ryan's Web"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ryan Chan"
+description              : "Undergraduate in Computer Science"
 url                      : "https://ryanc.wtf" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dizzyryan/ryanc.wtf" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -124,6 +124,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
