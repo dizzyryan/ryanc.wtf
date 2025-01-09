@@ -3,6 +3,7 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 last_modified_at: 2025-01-09
 toc: true
+author_profile: true
 ---
 
 # Privacy Policy
