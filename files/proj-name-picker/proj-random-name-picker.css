@@ -13,6 +13,10 @@ body {
   margin: 30px 30px;
 }
 
+.heading-name {
+  padding-left: 30px;
+}
+
 .input-name {
   width: auto;
   height: 300px;
@@ -26,9 +30,10 @@ body {
 
 .display-input-menu {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.5fr 1fr;
   grid-column-gap: 20px;
   align-items: center;
+  padding: 20px;
 }
 
 .menu-right-section {
