@@ -62,15 +62,19 @@ author:
   location         : "Hong Kong"
   email            : "rkychan@link.cuhk.edu.hk"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ryanc.wtf"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://ryanc.wtf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dizzyryan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/filmsforlifer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-ka-yam-chan-b82212346/"
+
 
 # Site Footer
 footer:
