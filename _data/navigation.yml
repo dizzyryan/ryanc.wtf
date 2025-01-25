@@ -6,5 +6,5 @@ main:
     url: /year-archive/
   - title: "Projects"
     url: /projects-archive/
-  - title: "Resume"
-    url: /cv/
+  # - title: "Resume"
+  #   url: /cv/
