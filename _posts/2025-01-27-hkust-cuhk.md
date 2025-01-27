@@ -8,9 +8,9 @@ tags:
   - gibberish
 ---
 
-## My story
-
 For those who know me well, they know that I made the decision to quit one university and enroll in another during my very first year as a freshman.<!--more--> Back then, I didn’t think much of it, but now it turns out this is one of the most crazy things I have ever done. So i decided to write this down, coz it's kinda like a big deal for me, and i think this article may be kinda useful for those who shared the same idea, or struggling to find the university that you like.
+
+## My story
 
 To be honest, I had been wondering which university I liked for quite a long time, and it wasn't until Form 6 that the reality hit me — I still had no idea what I was interested in or which university I preferred. So, when I applied for JUPAS, I just filled in whatever programs I thought I could get into and checked which universities my friends had chosen. After the DSE results were released, I received an admission letter from HKUST.
 
