@@ -37,20 +37,12 @@ With that said, I’ve categorized the following just for your information, in c
 
 ## Year 1 Semester 1
 
-|   Course  |   Category    |   Credit  |
-|   :---:   |   :------:    |   :----:  |
-| [ENGG1110 - Problem Solving By Programming](/posts/cuhk-course-review/y1-fall/2024/11/ENGG1110/) | Faculty Package | 3 |
-| [MATH1510 - Calculus for Engineers](/posts/cuhk-course-review/y1-fall/2024/11/MATH1510/) | Foundation Course | 3 |
-| [MATH1020 - General Mathematics](/posts/cuhk-course-review/y1-fall/2024/11/MATH1020/) | Foundation Course | 3 |
+My memories of the courses I've taken this term are a bit vague, so I’m not able to provide detailed reviews. However, overall, the courses were quite manageable—mostly serving as a recap of math concepts, I suppose. 
 
 ## Year 1 Semester 2
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| [ENGG1120 - Linear Algebra for Engineers](/posts/cuhk-course-review/y1-spring/2024/11/ENGG1120/) | Faculty Package | 3 |
-| [ENGG1130 - Multivariable Calculus for Engineers](/posts/cuhk-course-review/y1-spring/2024/11/ENGG1130/) | Faculty Package | 3 |
-| [IERG2060 - Basic Analog and Digital Circuits](/posts/cuhk-course-review/y1-spring/2024/11/IERG2060/) | Major Required* | 3 |
-| [IERG1810 - Electronic Circuit Design Laboratory](/posts/cuhk-course-review/y1-spring/2024/11/IERG1810/) | - | 1 |
 | [IERG2080 - Introduction to Systems Programming](/posts/cuhk-course-review/y1-spring/2024/11/IERG2080/) | Free Elective | 3 |
 
 (*) substitute for ENGG2020
