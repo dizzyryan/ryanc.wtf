@@ -43,7 +43,7 @@ My memories of the courses I've taken this term are a bit vague, so I’m not ab
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| [IERG2080 - Introduction to Systems Programming](/posts/cuhk-course-review/y1-spring/2024/11/IERG2080/) | Free Elective | 3 |
+| [IERG2080 - Introduction to Systems Programming](/posts/cuhk-course-review/2024/11/IERG2080/) | Free Elective | 3 |
 
 (*) substitute for ENGG2020
 
@@ -51,9 +51,9 @@ My memories of the courses I've taken this term are a bit vague, so I’m not ab
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
-| [CHEM1380 - Basic Chemistry for Engineers](/posts/cuhk-course-review/y2-fall/2024/12/CHEM1380/) | Foundation Course | 3 |
-| [CSCI1130 - Intro to Computing Using Java](/posts/cuhk-course-review/y2-fall/2024/12/CSCI1130/) | Foundation Course | 3 |
-| [ENGG2440 - Discrete Math for Engineers](/posts/cuhk-course-review/y2-fall/2024/12/ENGG2440/) | Foundation Course | 3 |
-| [ENGG2760 - Probability for Engineers](/posts/cuhk-course-review/y2-fall/2024/12/ENGG2760/) | Foundation Course | 2 |
-| [UGED2040 - Appreciation of HK Literature](/posts/cuhk-course-review/y2-fall/2024/12/UGED2040/) | University Core | 2 |
-| [UGFH1000 - In Dialogue with Humanity](/posts/cuhk-course-review/y2-fall/2024/12/UGFH1000/) | University Core | 3 |
+| [CHEM1380 - Basic Chemistry for Engineers](/posts/cuhk-course-review/2024/12/CHEM1380/) | Foundation Course | 3 |
+| [CSCI1130 - Intro to Computing Using Java](/posts/cuhk-course-review/2024/12/CSCI1130/) | Foundation Course | 3 |
+| [ENGG2440 - Discrete Math for Engineers](/posts/cuhk-course-review/2024/12/ENGG2440/) | Foundation Course | 3 |
+| [ENGG2760 - Probability for Engineers](/posts/cuhk-course-review/2024/12/ENGG2760/) | Foundation Course | 2 |
+| [UGED2040 - Appreciation of HK Literature](/posts/cuhk-course-review/2024/12/UGED2040/) | University Core | 2 |
+| [UGFH1000 - In Dialogue with Humanity](/posts/cuhk-course-review/2024/12/UGFH1000/) | University Core | 3 |
