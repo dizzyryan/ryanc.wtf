@@ -8,7 +8,7 @@ tags:
   - gibberish
 ---
 
-For those who know me well, they know that I made the decision to quit one university and enroll in another during my very first year as a freshman.<!--more--> Back then, I didn’t think much of it, but now it turns out this is one of the most crazy things I have ever done. So i decided to write this down, coz it's kinda like a big deal for me, and i think this article may be kinda useful for those who shared the same idea, or struggling to find the university that you like.
+For those who know me well, they know that I made the decision to quit one university and enroll in another during my very first year as a freshman.<!--more--> Back then, I didn’t think much of it, but now it turns out this is one of the craziest things I have ever done. So I decided to write this down because it's kind of a big deal for me, and I think this article might be useful for those who share the same thoughts or are struggling to find a university they truly like.
 
 ## My story
 
