@@ -1,7 +1,7 @@
 ---
 title: "Course Review"
 date: 2024-11-25
-last_modified_at: 2025-01-09
+last_modified_at: 2025-01-27
 permalink: /posts/2024/11/course-review/
 excerpt_separator: <!--more-->
 toc: true
