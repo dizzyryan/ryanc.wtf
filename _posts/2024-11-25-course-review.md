@@ -14,7 +14,7 @@ Well, I’ve got another idea for posting... something?<!--more-->
 I thought, why not write a review or comment about the course I took? So here I am with this post. Details like the grading scheme might not be entirely accurate since they can change over time, but I think giving you a glimpse of what the course looks like could be fun.
 
 ## Before you start
-Thanks to the whole-person education at CUHK, we have quite a lot of courses to take, especially in general education. It depends on how you see it, but I think they are quite educational (at least for the courses I’ve taken so far, though it might be better if they weren’t credit-bearing).
+Thanks to CUHK, we have quite a lot of courses to take, especially in general education. It depends on how you see it, but I think they are quite educational (at least for the courses I’ve taken so far, though it might be better if they weren’t credit-bearing).
 
 With that said, I’ve categorized the following just for your information, in case you’re not familiar with what I’m talking about.
 
@@ -53,7 +53,4 @@ My memories of the courses I've taken this term are a bit vague, so I’m not ab
 |   :---:   |   :------:    |   :----:  |
 | [CHEM1380 - Basic Chemistry for Engineers](/posts/cuhk-course-review/2024/12/CHEM1380/) | Foundation Course | 3 |
 | [CSCI1130 - Intro to Computing Using Java](/posts/cuhk-course-review/2024/12/CSCI1130/) | Foundation Course | 3 |
-| [ENGG2440 - Discrete Math for Engineers](/posts/cuhk-course-review/2024/12/ENGG2440/) | Foundation Course | 3 |
-| [ENGG2760 - Probability for Engineers](/posts/cuhk-course-review/2024/12/ENGG2760/) | Foundation Course | 2 |
-| [UGED2040 - Appreciation of HK Literature](/posts/cuhk-course-review/2024/12/UGED2040/) | University Core | 2 |
 | [UGFH1000 - In Dialogue with Humanity](/posts/cuhk-course-review/2024/12/UGFH1000/) | University Core | 3 |
