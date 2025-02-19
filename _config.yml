@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ryan Chan"
 description              : "Undergraduate in Computer Science"
-url                      : "https://ryanc.wtf" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.ryanc.wtf" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dizzyryan/ryanc.wtf" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
