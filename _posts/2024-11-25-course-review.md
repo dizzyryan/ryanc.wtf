@@ -1,7 +1,7 @@
 ---
 title: "Course Review"
 date: 2024-11-25
-last_modified_at: 2025-02-01
+last_modified_at: 2025-05-07
 permalink: /posts/2024/11/course-review/
 excerpt_separator: <!--more-->
 toc: true
@@ -35,11 +35,11 @@ With that said, I’ve categorized the following just for your information, in c
 
 (*) depending on the faculty, the requirements may vary. For me, I need to take courses from UGEA, UGEC, and UGED.
 
-## Year 1 Semester 1
+## Year 1 Fall
 
 My memories of the courses I've taken this term are a bit vague, so I’m not able to provide detailed reviews. However, overall, the courses were quite manageable—mostly serving as a recap of math concepts, I suppose. 
 
-## Year 1 Semester 2
+## Year 1 Spring
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
@@ -47,7 +47,7 @@ My memories of the courses I've taken this term are a bit vague, so I’m not ab
 
 (*) substitute for ENGG2020
 
-## Year 2 Semester 1
+## Year 2 Fall
 
 |   Course  |   Category    |   Credit  |
 |   :---:   |   :------:    |   :----:  |
@@ -55,3 +55,12 @@ My memories of the courses I've taken this term are a bit vague, so I’m not ab
 | [ENGG2760 - Probability for Engineers](/posts/cuhk-course-review/2024/12/ENGG2760/) | Foundation Course | 3 |
 | [CSCI1130 - Intro to Computing Using Java](/posts/cuhk-course-review/2024/12/CSCI1130/) | Foundation Course | 3 |
 | [UGFH1000 - In Dialogue with Humanity](/posts/cuhk-course-review/2024/12/UGFH1000/) | University Core | 3 |
+
+## Year 2 Spring
+
+|   Course  |   Category    |   Credit  |
+|   :---:   |   :------:    |   :----:  |
+| [ENGG2780 - Statistics for Engineers](/posts/cuhk-course-review/2025/05/ENGG2780/) | Foundation Course | 2 |
+| [ELTU2014 - English for Engineering Students I](/posts/cuhk-course-review/2025/05/ELTU2014/) | University Core | 3 |
+| [CENG3420 - Computer Organization & Design](/posts/cuhk-course-review/2025/05/CENG3420/) | Major Required | 3 |
+| [CSCI2100 - Data Structures](/posts/cuhk-course-review/2025/05/CSCI2100/) | Major Required | 3 |
