@@ -9,7 +9,7 @@ tags:
   - gibberish
 ---
 
-For those who know me well, they know that I made the decision to quit hkust and enroll in cuhk during my very first year as a freshman.<!--more--> Back then, I didn’t think much of it, but now it turns out this is one of the craziest things I have ever done. So I decided to write this down because it's kind of a big deal for me, and I think this might be useful for those who share the same thoughts or are struggling to find a university they truly like.
+During my very first year as a freshman, I made the decision to quit hkust and enroll in cuhk. Back then, I didn’t think much of it, but now it turns out this is one of the craziest things I have ever done.<!--more--> So I decided to write this down because it's kind of a big deal for me, and I think this might be useful for those who share the same thoughts or are struggling to find a university they truly like.
 
 ## My story
 
